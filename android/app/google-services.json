@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "948322122372",
+    "project_id": "sanaly-fcc57",
+    "storage_bucket": "sanaly-fcc57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948322122372:android:d044e726a29c8afd22a0d1",
+        "android_client_info": {
+          "package_name": "com.example.sanaly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948322122372-26lcaa13umlqcacgs6h57gi92cvqqk9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanaly",
+            "certificate_hash": "1ba54c21f5d0f46cad1d83f22e758efbf3195391"
+          }
+        },
+        {
+          "client_id": "948322122372-k0ksffh54hpsn4psos1bnsih8sisirh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0G4czmi1e1AGa7CqeJXDyirbEsZBVMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948322122372-k0ksffh54hpsn4psos1bnsih8sisirh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
